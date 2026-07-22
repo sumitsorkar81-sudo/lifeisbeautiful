@@ -195,8 +195,6 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 http://103.180.212.191:3500/live/471
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-type="Movies" group-title="�DISH BUZZ�" tvg-language="Hindi" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="http://103.180.212.191:3500/jtvimage/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="�JIOTV DISHTV�", Discovery Turbo
-http://103.180.212.191:3500/live/541.m3u8
 #EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="http://103.180.212.191:3500/jtvimage/Aastha_Bhajan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="�JIOTV DISHTV�", Aastha Bhajan
 http://103.180.212.191:3500/live/594.m3u8
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" tvg-language="English" group-title="Infotainment", National Geographic HD
