@@ -73,7 +73,7 @@ http://103.151.60.204:881/A-Sports/video.m3u8
 http://202.70.146.135:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports",Star Sports 1
 http://tvsen7.aynascope.net/sspts1/index.m3u8
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Extra HD
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us@SD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports",Willow (720p)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
@@ -89,31 +89,31 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 https://bdixserver.tvhunter.top/ant1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports", Unite8 Sports 2 
 https://bdixserver.tvhunter.top/ant1001/index.m3u8
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", STAR SPORTS 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", STAR SPORTS 1 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODMubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", STAR SPORTS 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", STAR SPORTS 2 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODQubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", STAR SPORTS 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", STAR SPORTS 2 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODQubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", Star SPORTS Hindi
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", Star SPORTS Hindi
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODUubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", WILLOW CRICKET HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", WILLOW CRICKET HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODYubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", WILLOW CRICKET EXTRA HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", WILLOW CRICKET EXTRA HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODcubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ASTRO CRICKET HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ASTRO CRICKET HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODIubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", RUSH SPORTS HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", RUSH SPORTS HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDk0MDUubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", RUSH SPORTS 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", RUSH SPORTS 2 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDk0MDYubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", SKY SPORTS CRICKET HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", SKY SPORTS CRICKET HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzOTAubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", SKY SPORT 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", SKY SPORT 1 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzOTIubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", SKY SPORT 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", SKY SPORT 2 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzOTMubTN1OA==
-#EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", TEN SPORTS HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", TEN SPORTS HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzOTYubTN1OA==
 #EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/TEN_1_HD_1.png", SONY TEN SPORTS 1 HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi8zNzMyMDAubTN1OA==
