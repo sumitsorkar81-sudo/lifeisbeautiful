@@ -175,7 +175,7 @@ https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1  ,Sony HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold HD
+#EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" group-title="Entertainment", Star Gold HD
 http://202.70.146.135:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
 http://202.70.146.135:8000/play/a005/index.m3u8
@@ -183,23 +183,23 @@ http://202.70.146.135:8000/play/a005/index.m3u8
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="NEWS INTERNASIONAL",NDTV NEWS
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="News",NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png" group-title="SM_IPTV",Zee 24 Ghanta
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png" group-title="News",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="242000" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-title="Kids",Nikki
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-type="Entertainment" group-title="�DISH BUZZ�" tvg-language="Hindi" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Sony SAB HD
+#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-type="Entertainment" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Sony SAB HD
 http://103.180.212.191:3500/live/471
-#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-type="Movies" group-title="�DISH BUZZ�" tvg-language="Hindi" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Zee Action
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-type="Movies" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="http://103.180.212.191:3500/jtvimage/Aastha_Bhajan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="�JIOTV DISHTV�", Aastha Bhajan
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-logo="http://103.180.212.191:3500/jtvimage/Aastha_Bhajan.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Religion", Aastha Bhajan
 http://103.180.212.191:3500/live/594.m3u8
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" tvg-language="English" group-title="Infotainment", National Geographic HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" group-title="Sports", Red Bull TV
 http://103.159.180.34:5001/live/2779.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png" group-title="Kolkata Bangla Movies",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png" group-title="Entertainment",Zee Bangla Cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo="",Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
@@ -207,27 +207,27 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 tvg-id="54" tvg-logo="",All Time Movies
 http://103.175.73.12:8080/live/54/54_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="�AIR",NATIONAL GEO WILD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="Infotainment",NATIONAL GEO WILD 
 https://yowaimo.in/Sflex-ArtlPVT0719/NAT_GEO_WILD_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="�AIR",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="Infotainment",DISCOVERY
 https://yowaimo.in/Sflex-ArtlPVT0719/DISCOVERY_HD_WORLD.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-language="Hindi" group-title="Sports", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="212000" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="Kids",BuddyStar HD
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-#EXTINF:-1 tvg-name="Times Of India" group-title="NEWS INTERNASIONAL TV",Times Of India
+#EXTINF:-1 tvg-name="Times Of India" group-title="News",Times Of India
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" group-title="CARTOON Drama",Motu Patlu
+#EXTINF:-1 tvg-name="Motu Patlu" group-title="Kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
+#EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Infotainment",Discovery Hindi
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 #EXTINF:-1  ,Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Indian",Hare Krsna
+#EXTINF:-1 tvg-logo="https://bigcchubchat.pages.dev/837.png" group-title="Religion",Hare Krsna
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
