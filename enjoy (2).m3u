@@ -234,3 +234,7 @@ https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Ayna TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/ayna-150x150.jpg?x95285" group-title="BANGLA",Ayna TV
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x95285" group-title="BANGLA",Boishakhi TV
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd-150x150.jpg?x95285" group-title="BANGLA",RTV
+#EXTINF:-1 tvg-id="Zee_Bangla" tvg-name="Zee Bangla" tvg-logo="https://githubusercontent.com" group-title="Bangla", Zee Bangla HD
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 tvg-id="Zee_Bangla" tvg-name="Zee Bangla" tvg-logo="https://githubusercontent.com" group-title="Entertainment", Zee Bangla HD
+https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u
