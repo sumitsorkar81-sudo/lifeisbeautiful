@@ -215,8 +215,6 @@ https://yowaimo.in/Sflex-ArtlPVT0719/NAT_GEO_WILD_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/DISCOVERY_HD_WORLD.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-language="Hindi" group-title="Sports", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-name="unt-s Sports HD" group-title="FIFA World Cup 2026",Sony Max
-http://103.165.93.31:8095/unt-s/video.m3u8
 #EXTINF:-1 tvg-id="212000" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="Kids",BuddyStar HD
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
 #EXTINF:-1 tvg-name="Times Of India" group-title="NEWS INTERNASIONAL TV",Times Of India
