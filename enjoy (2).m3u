@@ -238,3 +238,5 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Zee Bangla SD
 http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Entertainment", Zee Bangla HD
+http://103.140.254.2:3500/live/625.m3u8
