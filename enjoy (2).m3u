@@ -21,12 +21,24 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPvrNcwPqboOZqUWflWXFlqU/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPurvTtw67qRfNU1msA_iZaA/ts
 #EXTINF:-1 xui-id="163" tvg-id="RTV1" tvg-name="RTV HD" tvg-logo="http://10.189.188.190:8080/images/905d6be3d7b0dee33f7cdce22c77d3a9.png" group-title="BANGLA",RTV
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoxZMiPi_VNKlsJlz8fV8qQ/ts
+#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="EKHON TV HD" tvg-logo="http://10.189.188.190:8080/images/82c392e096dc08d11f0113c2155b837c.png" group-title="BANGLA",EKHON TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtEsLcPaSP0cNORE_sIG8Uc/ts
+#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="SATV HD" tvg-logo="http://10.189.188.190:8080/images/655c0521088a284b767b0e3c783db94a.png" group-title="BANGLA",SATV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPmZ4uN9kE84py4yIy-Ys9HU/ts
 #EXTINF:-1 xui-id="164" tvg-id="ATNNW" tvg-name="ATN NEWS" tvg-logo="http://10.189.188.190:8080/images/37cfb7545393dad175f74cb073f9e0cf.png" group-title="BANGLA",ATN NEWS
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPjuIyMiMY4Va_2fP222keME/ts
 #EXTINF:-1 xui-id="165" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://10.189.188.190:8080/images/cb37432c11f975d467043053ca862951.png" group-title="BANGLA",SOMOY TV
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpmomGezAxq-YrOFLPKgG3g/ts
 #EXTINF:-1 xui-id="161" tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="" group-title="BANGLA",EKUSHEY TV 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPrtxpyL4Q0_D_hPnZr42Pzw/ts
+#EXTINF:-1 xui-id="174" tvg-id="BANGLAV" tvg-name="BANGLA VISION" tvg-logo="http://10.189.188.190:8080/images/d3008201db4147f22375c4e757eaef8d.png" group-title="BANGLA",BANGLA VISION
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkOvqui9BNgSHyPh0FFTggQ/ts
+#EXTINF:-1 xui-id="175" tvg-id="" tvg-name="DESH TV" tvg-logo="http://10.189.188.190:8080/images/9e9201986ff9d97d5a898d535ed8edd8.png" group-title="BANGLA",DESH TV
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv1Pb2irU-fCVDAe0YILkho/tts
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="BOISHAKHI TV HD" tvg-logo="http://10.189.188.190:8080/images/2296c50c30ee7899c586fec56f74fe24.png" group-title="BANGLA",BOISHAKHI TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhPilTDU9p3idX9_xyxHe5I/ts
+#EXTINF:-1 xui-id="178" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="http://10.189.188.190:8080/images/3d0cf8e77c8778e611caff655cbba8f2.png" group-title="BANGLA",GAZI TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnCc9g4tHgDJpYLbgaVYVFw/ts
 #EXTINF:-1 xui-id="158" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="" group-title="BANGLA",BTV CHATTAGRAM
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPq8soKW6ySrS4OhREY49Xr4/ts
 #EXTINF:-1 xui-id="159" tvg-id="ATNBANG" tvg-name="ATN BANGLA HD" tvg-logo="http://10.189.188.190:8080/images/dfbba50e9cbf9269bb1ac404eae51e8f.png" group-title="BANGLA",ATN BANGLA HD
