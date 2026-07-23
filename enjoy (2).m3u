@@ -91,6 +91,8 @@ http://202.70.146.135:8000/play/a04b/index.m3u8
 http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="Sports",T Sports HD
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="Sports",Ten Cricket 
+https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", RUSH SPORTS HD
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDk0MDUubTN1OA==
 #EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", RUSH SPORTS 2 HD
