@@ -43,6 +43,14 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnCc9g4tHgDJpYLbgaVYVFw/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPq8soKW6ySrS4OhREY49Xr4/ts
 #EXTINF:-1 xui-id="159" tvg-id="ATNBANG" tvg-name="ATN BANGLA HD" tvg-logo="http://10.189.188.190:8080/images/dfbba50e9cbf9269bb1ac404eae51e8f.png" group-title="BANGLA",ATN BANGLA HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPq6aX3zghW0AR_vc_zHPIDQ/ts
+#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="http://10.189.188.190:8080/images/50c5a71bb07a18509349faca847414a7.png" group-title="BANGLA",DEEPTO TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnMN0oirRGvwoOwhyEhqFZU/ts
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="http://10.189.188.190:8080/images/9d10e334f396b689a8c21adeb561f706.png" group-title="BANGLA",MAASRANGA TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp7icPC7X_bje5p_C1XZa-U/ts
+#EXTINF:-1 xui-id="183" tvg-id="BANGLA" tvg-name="BANGLA TV HD" tvg-logo="http://10.189.188.190:8080/images/d3a179a8f713e7b80beb7f56f9df6c02.png" group-title="BANGLA",BANGLA TV
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPumglt7zVMAt3RJBtb8BqFk/ts
+#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="http://10.189.188.190:8080/images/bddf6fc4834df1aeb7c87523411ab168.png" group-title="BANGLA",NAGORIK TV
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp72CvruwxDFclsgaqDbIa4/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Bangla HD
@@ -240,6 +248,8 @@ https://yowaimo.in/Sflex-ArtlPVT0719/DISCOVERY_HD_WORLD.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-name="Times Of India" group-title="News",Times Of India
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
+#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="http://10.189.188.190:8080/images/d8c0c23ac9befd9ddaa3c3973ea35ca0.png" group-title="Kids",DURONTO TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv-yr9K0JXC9__cf09yrK-g/ts
 #EXTINF:-1 tvg-name="Motu Patlu" group-title="Kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN
