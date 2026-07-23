@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 xui-id="189" tvg-id="ZBNGL" tvg-name="ZEE BANGLA HD" tvg-logo="http://10.189.188.190:8080/images/16df07a15cd080f13c53a4e94a94e085.png" group-title="Indian-Bangla",ZEE BANGLA
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgasBrFMGqqxeYsqjrziUsY/ts
+#EXTINF:-1 xui-id="188" tvg-id="JALSHA" tvg-name="STAR JOLSHA HD" tvg-logo="http://10.189.188.190:8080/images/a838c61b4e8dcfeb7b36db3b5c9fe8a1.png" group-title="Indian-Bangla",STAR JOLSHA
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoGBmgAMVEh953xQKf9sTuU/ts
 #EXTINF:-1 xui-id="156" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="BANGLA",BTV NATIONAL HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
 #EXTINF:-1 xui-id="171" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="http://10.189.188.190:8080/images/c7499276766a2deeff61f9f5a7060df2.png" group-title="BANGLA",EKATTOR TV HD
@@ -51,6 +55,34 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp7icPC7X_bje5p_C1XZa-U/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPumglt7zVMAt3RJBtb8BqFk/ts
 #EXTINF:-1 xui-id="184" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="http://10.189.188.190:8080/images/bddf6fc4834df1aeb7c87523411ab168.png" group-title="BANGLA",NAGORIK TV
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp72CvruwxDFclsgaqDbIa4/ts
+#EXTINF:-1 xui-id="187" tvg-id="CH9" tvg-name="CHANNEL 9 HD" tvg-logo="http://10.189.188.190:8080/images/0c7f9a45fce6946156e8cf3eb6f495bf.png" group-title="BANGLA",CHANNEL 9 HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtRn-AlwqapYwuYSKu4QV8M/ts
+#EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
+#EXTINF:-1 xui-id="192" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="http://10.189.188.190:8080/images/234b64b3f23785f3a34f09b98595db13.png" group-title="Indian-Bangla",JALSHA MOVIES HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlvXA50uTKcvthCpALluhKk/ts
+#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="SONY ATTH" tvg-logo="http://10.189.188.190:8080/images/6a79d99044a24863853b304860feea10.png" group-title="Indian-Bangla",SONY ATTH
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgbedPBDIrwfaZJIzNgPSpY/ts
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.188.190:8080/images/00693754ce68f11ce906d57ca7149ed5.png" group-title="ENTERTAINMENT",Sony SUB
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgXI8UC448dza5QGTc86TN8/ts
+#EXTINF:-1 xui-id="194" tvg-id="ZEEBCIN" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://10.189.188.190:8080/images/32cea199e8e21b60473390d061479b57.png" group-title="Indian-Bangla",ZEE BANGLA CINEMA
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhAnqBk47OauwgAuQACfh2E/ts
+#EXTINF:-1 xui-id="198" tvg-id="STARPLUS" tvg-name="STAR PLUS HD" tvg-logo="http://10.189.188.190:8080/images/250d2f32a925716016cb8f390daa881e.png" group-title="Entertainment",STAR PLUS
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqQfp3t7XgJ160DIiYrubJ8/ts
+#EXTINF:-1 xui-id="199" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://10.189.188.190:8080/images/32e73c0e5ac52dbd848f030747b9debe.png" group-title="Entertainment",SONY Entertainment
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPrNW3olB7VMZ_HSd-FGjgAg/ts
+#EXTINF:-1 xui-id="208" tvg-id="STRGAHL" tvg-name="STAR GOLD HD" tvg-logo="http://10.189.188.190:8080/images/381f8c0c26665e96573b3f126f848811.png" group-title="MOVIES",STAR GOLD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtq74JlHzTAjm7tI15niVdY/ts
+#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="UTSAV GOLD HD" tvg-logo="" group-title="MOVIES",UTSAV GOLD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPjTHzpOCUph5iFKSS9kVZs0/ts
+#EXTINF:-1 xui-id="210" tvg-id="ZCIN" tvg-name="ZEE CINEMA HD" tvg-logo="http://10.189.188.190:8080/images/a7d7d3fb545d027d4e6ec194942c06ac.png" group-title="MOVIES",ZEE CINEMA HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPooB_zZ0GanwrNNJ1FqZAhw/ts
+#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="& PICTURE HD" tvg-logo="http://10.189.188.190:8080/images/8a7c0a3574fa415bc44cd233953394f7.png" group-title="MOVIES",& PICTURE
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPrKJ_tdwGcRlqmx7TQhMskM/ts
+#EXTINF:-1 xui-id="212" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="http://10.189.188.190:8080/images/430aea585d2a7e3581954dfbc9f9988e.png" group-title="MOVIES",SONY MAX
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuld9GqpMzMBitjoHJWDkso/ts
+#EXTINF:-1 xui-id="213" tvg-id="COLOCPX" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://10.189.188.190:8080/images/d37be2e5f540d383ed64617e5ab81a26.png" group-title="MOVIES",COLORS CINEPLEX
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqKqhdgKGPo0CmyxZurtLxA/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Bangla HD
