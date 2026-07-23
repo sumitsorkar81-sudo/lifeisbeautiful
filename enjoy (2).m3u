@@ -3,6 +3,8 @@
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
 #EXTINF:-1 xui-id="157" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="" group-title="BANGLA",Somoy Tv
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlZ7jJtpIZeQux3z0RqikEY/ts
+#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="BTV CHATTAGRAM" tvg-logo="" group-title="BANGLA",BTV CHATTAGRAM
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPq8soKW6ySrS4OhREY49Xr4/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Bangla HD
