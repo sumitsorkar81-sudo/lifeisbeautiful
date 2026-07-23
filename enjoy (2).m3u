@@ -240,3 +240,5 @@ http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Zee Bangla HD
 http://103.140.254.2:3500/live/625.m3u8
+#EXTINF:-1, ZEE-BANGLA-HD 
+http://103.102.27.173:84/ZEE-BANGLA-HD/index.m3u8
