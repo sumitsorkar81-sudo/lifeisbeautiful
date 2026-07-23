@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 xui-id="156" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="BANGLA",BTV NATIONAL HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
+#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="http://10.189.188.190:8080/images/c7499276766a2deeff61f9f5a7060df2.png" group-title="BANGLA",EKATTOR TV HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhDNaLdP2HzwTjTXl1CH2KA/ts
 #EXTINF:-1 xui-id="157" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="" group-title="BANGLA",Somoy Tv
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlZ7jJtpIZeQux3z0RqikEY/ts
 #EXTINF:-1 xui-id="166" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="http://10.189.188.190:8080/images/4147c2af0c18fc28b59fa7aca12ae38d.png" group-title="BANGLA",JAMUNA TV
