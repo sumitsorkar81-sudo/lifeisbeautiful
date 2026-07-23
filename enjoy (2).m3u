@@ -234,3 +234,7 @@ http://103.151.60.204:881/StarSports1/video.m3u8
 http://103.151.60.204:881/StarSports2/video.m3u8
 #EXTINF:-1, pksportshd
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1,Zee Bangla SD
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
