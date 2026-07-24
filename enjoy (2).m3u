@@ -85,6 +85,14 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqJNYvKC8UHOArxnyRu_6g/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqKqhdgKGPo0CmyxZurtLxA/ts
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-tSun6", Unite8 Sports 2 
 https://bdixserver.tvhunter.top/ant1001/index.m3u8
+#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://10.189.188.190:8080/images/d62d7141d9b684f788cf1d348f3fcf34.png" group-title="Sports",SONY TEN 1 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpdJrG629YQlLTzFyuyRd8M/ts
+#EXTINF:-1 xui-id="220" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://10.189.188.190:8080/images/eae5203d3480c31a542b3895712b8eea.png" group-title="Sports",SONY TEN 2 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsv1Un6-OoNhYv4PlqNgKcU/ts
+#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="http://10.189.188.190:8080/images/b02e7c901ab014e2717760d2f4cd1470.png" group-title="Sports",SONY TEN 3
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv8MKup76rujToRPDGdMpU4/ts
+#EXTINF:-1 xui-id="222" tvg-id="" tvg-name="SONY TEN 5 HD" tvg-logo="http://10.189.188.190:8080/images/8f0ab64cd727a7887c01fc6774374355.png" group-title="Sports",SONY TEN 5
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpHH0eyiaE9xYtGleKWeL3Y/ts
 #EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
 #EXTINF:-1 xui-id="192" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="http://10.189.188.190:8080/images/234b64b3f23785f3a34f09b98595db13.png" group-title="Indian-Bangla",JALSHA MOVIES HD
