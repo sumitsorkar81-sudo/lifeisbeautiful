@@ -3,9 +3,9 @@
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgasBrFMGqqxeYsqjrziUsY/ts
 #EXTINF:-1 xui-id="188" tvg-id="JALSHA" tvg-name="STAR JOLSHA HD" tvg-logo="http://10.189.188.190:8080/images/a838c61b4e8dcfeb7b36db3b5c9fe8a1.png" group-title="Indian-Bangla",STAR JOLSHA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoGBmgAMVEh953xQKf9sTuU/ts
-#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="T SPORTS FUL HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="SPOTRS",T SPORTS
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="T SPORTS FUL HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="Sports",T SPORTS
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhqV8XTlwsaAuaAVzUSIKa0/ts
-#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="SPOTRS",T SPORTS 2
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="Sports",T SPORTS 2
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkrbaZIZgaoAIhmV3rGPRhQ/ts
 #EXTINF:-1 xui-id="156" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="BANGLA",BTV NATIONAL HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
@@ -61,6 +61,16 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPumglt7zVMAt3RJBtb8BqFk/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp72CvruwxDFclsgaqDbIa4/ts
 #EXTINF:-1 xui-id="187" tvg-id="CH9" tvg-name="CHANNEL 9 HD" tvg-logo="http://10.189.188.190:8080/images/0c7f9a45fce6946156e8cf3eb6f495bf.png" group-title="BANGLA",CHANNEL 9 HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtRn-AlwqapYwuYSKu4QV8M/ts
+#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://10.189.188.190:8080/images/a081f979db96c419c9ced55637e75519.png" group-title="Sports",STAR SPORTS 1
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPu5mmrB0AFHX1RbH4OlRIXA/ts
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://10.189.188.190:8080/images/9ed3c90f7f6e93c77b1ad16689e0ed95.png" group-title="Sports",STAR SPORTS 2 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPiZNoX0gE5Iskjy6Mfs3V4I/ts
+#EXTINF:-1 xui-id="225" tvg-id="" tvg-name="STAR SPORTS HINDI 2 HD" tvg-logo="http://10.189.188.190:8080/images/fc2149ab2724586f4fef20cd4faa2992.png" group-title="Sports",STAR SPORTS HINDI 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPirs7H_g9aWf1PIbw8Oe3nY/ts
+#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="STAR SPORTS SL1 HD" tvg-logo="http://10.189.188.190:8080/images/a8d68071a9a5264dfdec450de24216de.png" group-title="Sports",STAR SPORTS SELECT 1 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPin0k30i2LmSsKB9LxNrsGg/ts
+#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="STAR SPORTS SL2 HD" tvg-logo="http://10.189.188.190:8080/images/c2e504ea800d87cb9aaa55dd4f634665.png" group-title="Sports",STAR SPORTS SELECT 2
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqJNYvKC8UHOArxnyRu_6g/ts
 #EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
 #EXTINF:-1 xui-id="192" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="http://10.189.188.190:8080/images/234b64b3f23785f3a34f09b98595db13.png" group-title="Indian-Bangla",JALSHA MOVIES HD
@@ -102,7 +112,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  ,Somoy News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/ts
+5/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="BANGLA",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305" group-title="BANGLA",Channel-1
