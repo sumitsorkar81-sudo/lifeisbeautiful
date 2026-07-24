@@ -83,10 +83,18 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPin0k30i2LmSsKB9LxNrsGg/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqJNYvKC8UHOArxnyRu_6g/ts
 #EXTINF:-1 xui-id="231" tvg-id="" tvg-name="A SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/a06e1af2b3aa003b7c4d5e36f0dd9217.png" group-title="sports",A SPORTS 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv8RA0btbYY_dWxNi6pqm4E/ts
+#EXTINF:-1 xui-id="245" tvg-id="WILLOW" tvg-name="WILLOW CRICKET HD" tvg-logo="http://10.189.188.190:8080/images/8c43b36a28406f8405ffe5909dcd2b35.png" group-title="Sports",WILLOW BY CRICKBUZZ
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPij1KfvuBmz1M2aa8PhcS-M/ts
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="WILLOW CRICKET XTRA HD" tvg-logo="http://10.189.188.190:8080/images/b7bb6f64715ad6da27c7823917852d04.png" group-title="sports",WILLOW CRICKET 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkaNfUWjpZUZlOm4M8za5x4/ts
+#EXTINF:-1 xui-id="247" tvg-id="SSPOCR" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://10.189.188.190:8080/images/32603ec0daf070b89b12c95468677c54.png" group-title="sports",SKY SPORTS CRICKET 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnOzF-NuBUEs922nR00sf1M/ts
 #EXTINF:-1 xui-id="213" tvg-id="COLOCPX" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://10.189.188.190:8080/images/d37be2e5f540d383ed64617e5ab81a26.png" group-title="Sports",United Sports 1
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqKqhdgKGPo0CmyxZurtLxA/ts
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-tSun6", Unite8 Sports 2 
 https://bdixserver.tvhunter.top/ant1001/index.m3u8
+#EXTINF:-1 xui-id="249" tvg-id="" tvg-name="SKY PREMIER LEAGUE HD" tvg-logo="http://10.189.188.190:8080/images/08bf1c92ee8d04fcfafd85ea27497a6b.png" group-title="Sports",SKY SPORTS PREMIER LEAGUE 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPq7iQ9UIM7bFF9mKQ_k2wDk/ts
 #EXTINF:-1 xui-id="219" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://10.189.188.190:8080/images/d62d7141d9b684f788cf1d348f3fcf34.png" group-title="Sports",SONY TEN 1 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpdJrG629YQlLTzFyuyRd8M/ts
 #EXTINF:-1 xui-id="220" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://10.189.188.190:8080/images/eae5203d3480c31a542b3895712b8eea.png" group-title="Sports",SONY TEN 2 
