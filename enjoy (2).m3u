@@ -17,6 +17,8 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlZ7jJtpIZeQux3z0RqikEY/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsBvKG4RCAJ7O05wUbBowQc/ts
 #EXTINF:-1 xui-id="167" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://10.189.188.190:8080/images/8b617b28f61095fb668d25febef4ead3.png" group-title="BANGLA",INDEPENDENT TV
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpS4c7flD7dYo47ZMoTweSY/ts
+#EXTINF:-1 xui-id="168" tvg-id="CHAN24" tvg-name="CHANNEL 24 HD" tvg-logo="http://10.189.188.190:8080/images/32a358466be65be3f4fbadaf3898eeeb.png" group-title="ALL CHANNELS",CHANNEL 24 HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkVsoTnSLAQx5B2LXiEm3cA/ts
 #EXTINF:-1 xui-id="168" tvg-id="CHAN24" tvg-name="CHANNEL 24 HD" tvg-logo="http://10.189.188.190:8080/images/32a358466be65be3f4fbadaf3898eeeb.png" group-title="BANGLA",CHANNEL 24 HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkVsoTnSLAQx5B2LXiEm3cA/tts
 ##EXTINF:-1 xui-id="169" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://10.189.188.190:8080/images/ecb7eabdd71d51f314736ab0ea83d155.png" group-title="NEWS",DBC NEWS HD
