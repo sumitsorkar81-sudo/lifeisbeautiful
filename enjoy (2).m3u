@@ -107,6 +107,10 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpHH0eyiaE9xYtGleKWeL3Y/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsDR9DyNT9ZXhg_oX2-9-Vw/ts
 #EXTINF:-1 xui-id="236" tvg-id="TNTSPOR" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://10.189.188.190:8080/images/69912ed17b64af17a54bc2fad797e872.png" group-title="Sports",TNT SPORTS 4 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPmQDbMJi1vc7V3V0JfFnmCY/ts
+#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="BEIN  SPORTS 2 HD ENG" tvg-logo="http://10.189.188.190:8080/images/21890048ab905cd5393f4dbf8d649460.png" group-title="sports",BEIN  SPORTS 2 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnd_dCE3dN6j5PTD3GW3rJU/ts
+#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="BEIN SPORTS HD USA" tvg-logo="" group-title="Sports",BEIN SPORTS 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqXCPWnxtvq8Z6g_P6g7Og/ts
 #EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
 #EXTINF:-1 xui-id="191" tvg-id="" tvg-name="SUN BANGLA HD" tvg-logo="http://10.189.188.190:8080/images/9fd8e195589f1e284355aa5eb1b4dbed.png" group-title="Indian-Bangla",SUN BANGLA HD
