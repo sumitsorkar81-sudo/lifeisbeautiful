@@ -81,6 +81,8 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPirs7H_g9aWf1PIbw8Oe3nY/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPin0k30i2LmSsKB9LxNrsGg/ts
 #EXTINF:-1 xui-id="227" tvg-id="" tvg-name="STAR SPORTS SL2 HD" tvg-logo="http://10.189.188.190:8080/images/c2e504ea800d87cb9aaa55dd4f634665.png" group-title="Sports",STAR SPORTS SELECT 2
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqJNYvKC8UHOArxnyRu_6g/ts
+#EXTINF:-1 xui-id="231" tvg-id="" tvg-name="A SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/a06e1af2b3aa003b7c4d5e36f0dd9217.png" group-title="sports",A SPORTS 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv8RA0btbYY_dWxNi6pqm4E/ts
 #EXTINF:-1 xui-id="213" tvg-id="COLOCPX" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://10.189.188.190:8080/images/d37be2e5f540d383ed64617e5ab81a26.png" group-title="Sports",United Sports 1
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqKqhdgKGPo0CmyxZurtLxA/ts
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-tSun6", Unite8 Sports 2 
@@ -95,8 +97,8 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv8MKup76rujToRPDGdMpU4/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpHH0eyiaE9xYtGleKWeL3Y/ts
 #EXTINF:-1 xui-id="229" tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="http://10.189.188.190:8080/images/9dc65c7308a72180f7a2ef702e4b927c.png" group-title="sports",EUROSPORTS 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsDR9DyNT9ZXhg_oX2-9-Vw/ts
-#EXTINF:-1 xui-id="231" tvg-id="" tvg-name="A SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/a06e1af2b3aa003b7c4d5e36f0dd9217.png" group-title="sports",A SPORTS 
-http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv8RA0btbYY_dWxNi6pqm4E/ts
+#EXTINF:-1 xui-id="236" tvg-id="TNTSPOR" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://10.189.188.190:8080/images/69912ed17b64af17a54bc2fad797e872.png" group-title="Sports",TNT SPORTS 4 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPmQDbMJi1vc7V3V0JfFnmCY/ts
 #EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
 #EXTINF:-1 xui-id="191" tvg-id="" tvg-name="SUN BANGLA HD" tvg-logo="http://10.189.188.190:8080/images/9fd8e195589f1e284355aa5eb1b4dbed.png" group-title="Indian-Bangla",SUN BANGLA HD
