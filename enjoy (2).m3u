@@ -9,6 +9,8 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhqV8XTlwsaAuaAVzUSIKa0/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkrbaZIZgaoAIhmV3rGPRhQ/ts
 #EXTINF:-1 xui-id="156" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="BANGLA",BTV NATIONAL 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
+#EXTINF:-1 xui-id="160" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="" group-title="BANGLA",CHANNEL I HD
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPvrNcwPqboOZqUWflWXFlqU/ts
 #EXTINF:-1 xui-id="165" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="http://10.189.188.190:8080/images/cb37432c11f975d467043053ca862951.png" group-title="BANGLA",SOMOY TV
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpmomGezAxq-YrOFLPKgG3g/ts
 #EXTINF:-1 xui-id="171" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="http://10.189.188.190:8080/images/c7499276766a2deeff61f9f5a7060df2.png" group-title="BANGLA",EKATTOR TV
@@ -31,8 +33,6 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtyysODqAnO_OWmE6mabszI/ts
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 xui-id="170" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://10.189.188.190:8080/images/060269629260fe61b37c645d89db562b.png" group-title="BANGLA",NEWS 24 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtcvgrauwhC_FL00U9UIW_w/ts
-#EXTINF:-1 xui-id="160" tvg-id="CHI" tvg-name="CHANNEL I HD" tvg-logo="" group-title="BANGLA",CHANNEL I HD
-http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPvrNcwPqboOZqUWflWXFlqU/ts
 #EXTINF:-1 xui-id="157" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="" group-title="BANGLA",Somoy Tv
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlZ7jJtpIZeQux3z0RqikEY/ts
 #EXTINF:-1 xui-id="162" tvg-id="NTVTR" tvg-name="NTV" tvg-logo="http://10.189.188.190:8080/images/ce8c32474d2fba4aa3da6031f2c03e07.png" group-title="BANGLA",NTV
