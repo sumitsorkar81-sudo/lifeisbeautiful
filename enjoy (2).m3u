@@ -13,13 +13,15 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhDNaLdP2HzwTjTXl1CH2KA/ts
 #EXTINF:-1 xui-id="157" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="" group-title="BANGLA",Somoy Tv
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlZ7jJtpIZeQux3z0RqikEY/ts
-#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="http://10.189.188.190:8080/images/4147c2af0c18fc28b59fa7aca12ae38d.png" group-title="BANGLA",JAMUNA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg" group-title="BANGLA",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="http://10.189.188.190:8080/images/4147c2af0c18fc28b59fa7aca12ae38d.png" group-title="BANGLA",JAMUNA TV 2
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsBvKG4RCAJ7O05wUbBowQc/ts
 #EXTINF:-1 xui-id="167" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://10.189.188.190:8080/images/8b617b28f61095fb668d25febef4ead3.png" group-title="BANGLA",INDEPENDENT TV
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPpS4c7flD7dYo47ZMoTweSY/ts
-#EXTINF:-1 xui-id="168" tvg-id="CHAN24" tvg-name="CHANNEL 24 HD" tvg-logo="http://10.189.188.190:8080/images/32a358466be65be3f4fbadaf3898eeeb.png" group-title="ALL CHANNELS",CHANNEL 24 HD
+#EXTINF:-1 xui-id="168" tvg-id="CHAN24" tvg-name="CHANNEL 24 HD" tvg-logo="http://10.189.188.190:8080/images/32a358466be65be3f4fbadaf3898eeeb.png" group-title="BANGLA",CHANNEL 24
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkVsoTnSLAQx5B2LXiEm3cA/ts
-#EXTINF:-1 xui-id="168" tvg-id="CHAN24" tvg-name="CHANNEL 24 HD" tvg-logo="http://10.189.188.190:8080/images/32a358466be65be3f4fbadaf3898eeeb.png" group-title="BANGLA",CHANNEL 24 HD
+#EXTINF:-1 xui-id="168" tvg-id="CHAN24" tvg-name="CHANNEL 24 HD" tvg-logo="http://10.189.188.190:8080/images/32a358466be65be3f4fbadaf3898eeeb.png" group-title="BANGLA",CHANNEL 24 2
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkVsoTnSLAQx5B2LXiEm3cA/tts
 ##EXTINF:-1 xui-id="169" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="http://10.189.188.190:8080/images/ecb7eabdd71d51f314736ab0ea83d155.png" group-title="NEWS",DBC NEWS HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtyysODqAnO_OWmE6mabszI/ts
@@ -79,7 +81,7 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlvXA50uTKcvthCpALluhKk/ts
 #EXTINF:-1 xui-id="193" tvg-id="" tvg-name="SONY ATTH" tvg-logo="http://10.189.188.190:8080/images/6a79d99044a24863853b304860feea10.png" group-title="Indian-Bangla",SONY ATTH
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgbedPBDIrwfaZJIzNgPSpY/ts
-#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.188.190:8080/images/00693754ce68f11ce906d57ca7149ed5.png" group-title="ENTERTAINMENT",Sony SUB
+TV2XTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.188.190:8080/images/00693754ce68f11ce906d57ca7149ed5.png" group-title="ENTERTAINMENT",Sony SUB
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgXI8UC448dza5QGTc86TN8/ts
 #EXTINF:-1 xui-id="194" tvg-id="ZEEBCIN" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://10.189.188.190:8080/images/32cea199e8e21b60473390d061479b57.png" group-title="Indian-Bangla",ZEE BANGLA CINEMA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhAnqBk47OauwgAuQACfh2E/ts
@@ -120,8 +122,6 @@ https://owrcovcrpy.gpcdn.net/ts
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305" group-title="BANGLA",Channel-1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg" group-title="BANGLA",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="BANGLA",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="BANGLA",News 24
