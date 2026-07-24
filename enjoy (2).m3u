@@ -3,7 +3,9 @@
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgasBrFMGqqxeYsqjrziUsY/ts
 #EXTINF:-1 xui-id="188" tvg-id="JALSHA" tvg-name="STAR JOLSHA HD" tvg-logo="http://10.189.188.190:8080/images/a838c61b4e8dcfeb7b36db3b5c9fe8a1.png" group-title="Indian-Bangla",STAR JOLSHA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoGBmgAMVEh953xQKf9sTuU/ts
-#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="SPOTRS",T SPORTS
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="T SPORTS FUL HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="SPOTRS",T SPORTS
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhqV8XTlwsaAuaAVzUSIKa0/ts
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="SPOTRS",T SPORTS 2
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPkrbaZIZgaoAIhmV3rGPRhQ/ts
 #EXTINF:-1 xui-id="156" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="" group-title="BANGLA",BTV NATIONAL HD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnUk9w_QQFn8vEVmxX0BGfA/ts
