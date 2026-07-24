@@ -103,6 +103,8 @@ TV2XTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgXI8UC448dza5QGTc86TN8/ts
 #EXTINF:-1 xui-id="194" tvg-id="ZEEBCIN" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://10.189.188.190:8080/images/32cea199e8e21b60473390d061479b57.png" group-title="Indian-Bangla",ZEE BANGLA CINEMA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhAnqBk47OauwgAuQACfh2E/ts
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.188.190:8080/images/00693754ce68f11ce906d57ca7149ed5.png" group-title="Entertainment",Sony SUB  
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgXI8UC448dza5QGTc86TN8/ts
 #EXTINF:-1 xui-id="198" tvg-id="STARPLUS" tvg-name="STAR PLUS HD" tvg-logo="http://10.189.188.190:8080/images/250d2f32a925716016cb8f390daa881e.png" group-title="Entertainment",STAR PLUS
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqQfp3t7XgJ160DIiYrubJ8/ts
 #EXTINF:-1 xui-id="199" tvg-id="SONYCAE" tvg-name="SONY HD" tvg-logo="http://10.189.188.190:8080/images/32e73c0e5ac52dbd848f030747b9debe.png" group-title="Entertainment",SONY Entertainment
