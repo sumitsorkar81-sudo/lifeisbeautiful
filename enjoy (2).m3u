@@ -115,6 +115,10 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqQfp3t7XgJ160DIiYrubJ8/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPrNW3olB7VMZ_HSd-FGjgAg/ts
 #EXTINF:-1 xui-id="208" tvg-id="STRGAHL" tvg-name="STAR GOLD HD" tvg-logo="http://10.189.188.190:8080/images/381f8c0c26665e96573b3f126f848811.png" group-title="MOVIES",STAR GOLD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtq74JlHzTAjm7tI15niVdY/ts
+#EXTINF:-1 xui-id="214" tvg-id="STRGAHL" tvg-name="STAR GOLD 2 HD" tvg-logo="http://10.189.188.190:8080/images/37c6bbe57a9f22cd6c9b3f4da0d0fc78.png" group-title="Entertainment",STAR GOLD 2
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPv9H3iJVTLDgCRlS25zrCu4/ts
+#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="STAR GOLD SEL HD" tvg-logo="http://10.189.188.190:8080/images/7dd947c1aaa9d9bbeee1e3082f974237.png" group-title="Entertainment",STAR GOLD SELECT 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtQzmFooZ2D8mbsgDWnmkAM/ts
 #EXTINF:-1 xui-id="209" tvg-id="" tvg-name="UTSAV GOLD HD" tvg-logo="" group-title="MOVIES",UTSAV GOLD
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPjTHzpOCUph5iFKSS9kVZs0/ts
 #EXTINF:-1 xui-id="210" tvg-id="ZCIN" tvg-name="ZEE CINEMA HD" tvg-logo="http://10.189.188.190:8080/images/a7d7d3fb545d027d4e6ec194942c06ac.png" group-title="MOVIES",ZEE CINEMA HD
