@@ -81,6 +81,8 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPirs7H_g9aWf1PIbw8Oe3nY/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPin0k30i2LmSsKB9LxNrsGg/ts
 #EXTINF:-1 xui-id="227" tvg-id="" tvg-name="STAR SPORTS SL2 HD" tvg-logo="http://10.189.188.190:8080/images/c2e504ea800d87cb9aaa55dd4f634665.png" group-title="Sports",STAR SPORTS SELECT 2
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqJNYvKC8UHOArxnyRu_6g/ts
+#EXTINF:-1 xui-id="213" tvg-id="COLOCPX" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://10.189.188.190:8080/images/d37be2e5f540d383ed64617e5ab81a26.png" group-title="Sports",United Sports 1
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqKqhdgKGPo0CmyxZurtLxA/ts
 #EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
 #EXTINF:-1 xui-id="192" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="http://10.189.188.190:8080/images/234b64b3f23785f3a34f09b98595db13.png" group-title="Indian-Bangla",JALSHA MOVIES HD
@@ -105,8 +107,6 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPooB_zZ0GanwrNNJ1FqZAhw/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPrKJ_tdwGcRlqmx7TQhMskM/ts
 #EXTINF:-1 xui-id="212" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="http://10.189.188.190:8080/images/430aea585d2a7e3581954dfbc9f9988e.png" group-title="MOVIES",SONY MAX
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuld9GqpMzMBitjoHJWDkso/ts
-#EXTINF:-1 xui-id="213" tvg-id="COLOCPX" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://10.189.188.190:8080/images/d37be2e5f540d383ed64617e5ab81a26.png" group-title="MOVIES",COLORS CINEPLEX
-http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPqKqhdgKGPo0CmyxZurtLxA/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Zee Bangla HD
