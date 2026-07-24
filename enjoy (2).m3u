@@ -143,6 +143,18 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPooB_zZ0GanwrNNJ1FqZAhw/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPrKJ_tdwGcRlqmx7TQhMskM/ts
 #EXTINF:-1 xui-id="212" tvg-id="" tvg-name="SONY MAX HD" tvg-logo="http://10.189.188.190:8080/images/430aea585d2a7e3581954dfbc9f9988e.png" group-title="MOVIES",SONY MAX
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuld9GqpMzMBitjoHJWDkso/ts
+#EXTINF:-1 xui-id="271" tvg-id="APLANZ" tvg-name="ANIMAL PLANET HD" tvg-logo="http://10.189.188.190:8080/images/e144ad060d52d14f83504af073faa2dc.png" group-title="Infotainment",ANIMAL PLANET 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuj6bOViGLSzrQ1U7x6M-Ro/ts
+#EXTINF:-1 xui-id="268" tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://10.189.188.190:8080/images/a9b2f33ac1c1ab561b2524ac4aa4d6c2.png" group-title="Infotainment",DISCOVERY 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPt3bl4TXH_JBQGMzjC-9Lhw/ts
+#EXTINF:-1 xui-id="269" tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://10.189.188.190:8080/images/dc066a618cc5e05e57d2ff1641dfe426.png" group-title="Infotainment",NAT GEO 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPjED_45KVP7aq19LEKQ15v8/ts
+#EXTINF:-1 xui-id="270" tvg-id="NGWNL" tvg-name="NAT GEO WILD HD" tvg-logo="http://10.189.188.190:8080/images/b96f897bf54b45d1a3ffae16da0aeb23.png" group-title="Infotainment",NAT GEO WILD 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPjccQBmCjd6dgMSo41o9vz0/ts
+#EXTINF:-1 xui-id="272" tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://10.189.188.190:8080/images/39717f0286fdcb89a3eb85d225fd86ef.png" group-title="Infotainment",SONY BBC EARTH 
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtWUr385zdqgQWxYWOx9aYs/ts
+#EXTINF:-1 xui-id="278" tvg-id="" tvg-name="NICK TV HD+" tvg-logo="http://10.189.188.190:8080/images/4cf510df158bb0cab5b3d0aef38ec0f9.png" group-title="Kids",NICK TV HD+
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPvqxRbDBZErttgUHRpmTL9o/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="Indian-Bangla",Star Jalsha HD
