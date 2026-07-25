@@ -5,8 +5,6 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgasBrFMGqqxeYsqjrziUsY/ts
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BANGLA",G-Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 xui-id="188" tvg-id="JALSHA" tvg-name="STAR JOLSHA HD" tvg-logo="http://10.189.188.190:8080/images/a838c61b4e8dcfeb7b36db3b5c9fe8a1.png" group-title="Indian-Bangla",STAR JOLSHA
-http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoGBmgAMVEh953xQKf9sTuU/ts
 #EXTINF:-1 xui-id="217" tvg-id="" tvg-name="T SPORTS FUL HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="Sports",T SPORTS
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhqV8XTlwsaAuaAVzUSIKa0/ts
 #EXTINF:-1 xui-id="216" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="Sports",T SPORTS 2
@@ -145,6 +143,8 @@ https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yY
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDk0MDYubTN1OA==
 #EXTINF:-1 xui-id="229" tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="http://10.189.188.190:8080/images/9dc65c7308a72180f7a2ef702e4b927c.png" group-title="sports",EUROSPORTS 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsDR9DyNT9ZXhg_oX2-9-Vw/ts
+#EXTINF:-1 xui-id="188" tvg-id="JALSHA" tvg-name="STAR JOLSHA HD" tvg-logo="http://10.189.188.190:8080/images/a838c61b4e8dcfeb7b36db3b5c9fe8a1.png" group-title="Indian-Bangla",STAR JOLSHA
+http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoGBmgAMVEh953xQKf9sTuU/ts
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODcubTN1OA==
 #EXTINF:-1 xui-id="190" tvg-id="ETVBG" tvg-name="COLORS BANGLA HD" tvg-logo="" group-title="Indian-Bangla",COLORS BANGLA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsOpYUaNzzmPf-dnbcLgm_8/ts
