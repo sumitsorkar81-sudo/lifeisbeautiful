@@ -214,7 +214,7 @@ https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png" group-title="Movies",Zee Bangla Cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 tvg-id="51" tvg-logo="",Goldmines Movies
+#EXTINF:-1 tvg-id="51" tvg-logo="" group-title="Movies",Goldmines Movies
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="" group-title="Movies",Goldmines
 http://103.175.73.12:8080/live/53/53_0.m3u8
