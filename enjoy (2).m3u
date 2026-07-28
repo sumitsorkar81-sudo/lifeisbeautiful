@@ -218,7 +218,7 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="" group-title="Movies",Goldmines
 http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 tvg-id="54" tvg-logo="",All Time Movies
+#EXTINF:-1 tvg-id="54" tvg-logo="" group-title="Movies",All Time Movies
 http://103.175.73.12:8080/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-language="Hindi" group-title="Sports", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
