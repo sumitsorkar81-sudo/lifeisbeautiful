@@ -121,14 +121,6 @@ https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPmQDbMJi1vc7V3V0JfFnmCY/ts
 #EXTINF:-1 xui-id="244" tvg-id="" tvg-name="BEIN SPORTS HD USA" tvg-logo="" group-title="Sports",BEIN SPORTS 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqXCPWnxtvq8Z6g_P6g7Og/ts
-#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png", BEIN SPORTS 1
-https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi85ODUxNjMubTN1OA==
-#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="BEIN  SPORTS 2 HD ENG" tvg-logo="http://10.189.188.190:8080/images/21890048ab905cd5393f4dbf8d649460.png" group-title="sports",BEIN  SPORTS 2 
-http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPnd_dCE3dN6j5PTD3GW3rJU/ts
-https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi85ODUxNjIubTN1OA==
-#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png", BEIN SPORTS 3
-#EXTINF:-1 group-title="Sports" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png", BEIN SPORTS 4
-https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi85ODUxNjQubTN1OA==
 #EXTINF:-1  ,BeIN sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sports",Caze TV
