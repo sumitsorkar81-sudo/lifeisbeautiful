@@ -121,7 +121,6 @@ https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPmQDbMJi1vc7V3V0JfFnmCY/ts
 #EXTINF:-1 xui-id="244" tvg-id="" tvg-name="BEIN SPORTS HD USA" tvg-logo="" group-title="Sports",BEIN SPORTS 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPuqXCPWnxtvq8Z6g_P6g7Og/ts
-#EXTM3U
 #EXTINF:-1 group-title="Sports",BeIN sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sports",Caze TV
