@@ -3,8 +3,6 @@
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgasBrFMGqqxeYsqjrziUsY/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla 2
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="BANGLA",G-Natok
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 xui-id="217" tvg-id="" tvg-name="T SPORTS FUL HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="Sports",T SPORTS
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhqV8XTlwsaAuaAVzUSIKa0/ts
 #EXTINF:-1 xui-id="216" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://10.189.188.190:8080/images/42ddc1989b858ac139e29cc12523e754.png" group-title="Sports",T SPORTS 2
@@ -35,6 +33,8 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 xui-id="170" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://10.189.188.190:8080/images/060269629260fe61b37c645d89db562b.png" group-title="BANGLA",NEWS 24 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtcvgrauwhC_FL00U9UIW_w/ts
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",Star News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 xui-id="157" tvg-id="" tvg-name="BTV NEWS HD" tvg-logo="" group-title="BANGLA",Somoy Tv
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlZ7jJtpIZeQux3z0RqikEY/ts
 #EXTINF:-1 xui-id="163" tvg-id="RTV1" tvg-name="RTV HD" tvg-logo="http://10.189.188.190:8080/images/905d6be3d7b0dee33f7cdce22c77d3a9.png" group-title="BANGLA",RTV
@@ -79,6 +79,8 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp72CvruwxDFclsgaqDbIa4/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtRn-AlwqapYwuYSKu4QV8M/ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ENTERTAINMENT",G-Natok
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 xui-id="223" tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://10.189.188.190:8080/images/a081f979db96c419c9ced55637e75519.png" group-title="Sports",STAR SPORTS 1
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPu5mmrB0AFHX1RbH4OlRIXA/ts
 #EXTINF:-1 xui-id="224" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://10.189.188.190:8080/images/9ed3c90f7f6e93c77b1ad16689e0ed95.png" group-title="Sports",STAR SPORTS 2 
