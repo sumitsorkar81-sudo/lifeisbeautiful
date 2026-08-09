@@ -79,7 +79,7 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPp72CvruwxDFclsgaqDbIa4/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPtRn-AlwqapYwuYSKu4QV8M/ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="ENTERTAINMENT",G-Natok
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Entertainment",G-Natok
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 xui-id="223" tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://10.189.188.190:8080/images/a081f979db96c419c9ced55637e75519.png" group-title="Sports",STAR SPORTS 1
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPu5mmrB0AFHX1RbH4OlRIXA/ts
@@ -146,8 +146,6 @@ http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPlvXA50uTKcvthCpALluhKk/ts
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgbedPBDIrwfaZJIzNgPSpY/ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
-TV2XTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.188.190:8080/images/00693754ce68f11ce906d57ca7149ed5.png" group-title="ENTERTAINMENT",Sony SUB
-http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPgXI8UC448dza5QGTc86TN8/ts
 #EXTINF:-1 xui-id="194" tvg-id="ZEEBCIN" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://10.189.188.190:8080/images/32cea199e8e21b60473390d061479b57.png" group-title="Movies",ZEE BANGLA CINEMA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPhAnqBk47OauwgAuQACfh2E/ts
 #EXTINF:-1 xui-id="202" tvg-id="" tvg-name="SUB TV HD" tvg-logo="http://10.189.188.190:8080/images/00693754ce68f11ce906d57ca7149ed5.png" group-title="Entertainment",Sony SUB  
