@@ -133,6 +133,8 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 xui-id="229" tvg-id="" tvg-name="EUROSPORTS HD" tvg-logo="http://10.189.188.190:8080/images/9dc65c7308a72180f7a2ef702e4b927c.png" group-title="sports",EUROSPORTS 
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPsDR9DyNT9ZXhg_oX2-9-Vw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla 3
+http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 xui-id="188" tvg-id="JALSHA" tvg-name="STAR JOLSHA HD" tvg-logo="http://10.189.188.190:8080/images/a838c61b4e8dcfeb7b36db3b5c9fe8a1.png" group-title="Indian-Bangla",STAR JOLSHA
 http://10.189.188.190:8080/play/v9j1tR44uXnaGsXq7cgfPoGBmgAMVEh953xQKf9sTuU/ts
 https://allsports.allinonereborn.workers.dev/play?id=w20bol&stream=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9zcG8tczUtbi84MDkzODcubTN1OA==
@@ -268,5 +270,3 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/Bnh1fq0X/RPlus-News-logo-2017.webp",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Indian-Bangla",Zee Bangla 3
-http://103.159.180.34:5001/live/625.m3u8
